@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_call"
+        android:icon="@drawable/ic_call_black_24dp"
+        android:title="拨号"/>
+    <item
+        android:id="@+id/item_mail"
+        android:icon="@drawable/ic_mail_outline_black_24dp"
+        android:title="信息"/>
+
+    <item
+        android:id="@+id/item_person"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="我的"/>
+    <!--<item-->
+        <!--android:id="@+id/item4"-->
+        <!--android:icon="@drawable/ic_person_black_24dp"-->
+        <!--android:title="Contact"/>-->
+</menu>
